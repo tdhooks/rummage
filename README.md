@@ -1,2 +1,2 @@
 # rummage
-A CLI tool for inspecting and managing docker registries.
+A CLI tool for interacting with docker registries.
